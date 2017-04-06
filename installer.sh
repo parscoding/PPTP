@@ -43,3 +43,7 @@ service iptables restart
 chkconfig iptables on
 # ---------------------------------------------------------
 
+# installing PPTPD
+yum install -y pptpd
+
+# 
