@@ -12,4 +12,5 @@ Anyone can Develop this Installer for other Linux Distributions, Then send for m
 
 # Installation
 if you dont know that your release of CentOS have enough repositories for PPTPD, first Run below script :
+
 rpm -i http://poptop.sourceforge.net/yum/stable/rhel6/pptp-release-current.noarch.rpm
